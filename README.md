@@ -35,7 +35,7 @@
 |------------|-------------|----------------|
 | [ToDo на PyQt + CSV](https://github.com/Milia-K/todo-pyqt-csv) | GUI-приложение с сохранением задач в CSV | Python, PyQt5, pandas |
 | [Movie Data Pipeline](https://github.com/Milia-K/movie_data_pipeline) | Обработка и хранение данных о фильмах в распределённой среде | Python, Hadoop, Spark, Docker |
-| Архитектура на Hadoop | Учебный проект: HDFS, репликации, сплиты, MapReduce | Hadoop, Linux, CLI |
+| [Books_project](https://github.com/Milia-K/Books_project) | Book dataset download and analysis project | Python, PostgreSQL |
 
 ---
 
