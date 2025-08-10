@@ -1,22 +1,21 @@
-# Привет! Меня зовут Миляуша 👋
+# Hello! My name is Milyausha 👋
 
-Я начинающий инженер данных и Python-разработчик.  
-Люблю создавать полезные pet-проекты: от графических приложений до пайплайнов обработки данных.
-
----
-
-## Обо мне
-
-- 🎓 Учусь работать с данными: от SQL до Hadoop
-- 💻 Пишу скрипты и приложения на Python
-- 🖼️ Осваиваю PyQt5 для создания десктопных GUI
-- 🌐 Ранее изучала **фронтенд**: HTML, CSS, JavaScript
-- 📊 Разбираюсь в аналитике, ETL/ELT и архитектурах данных
-- 🚀 Интересуюсь big data и распределёнными системами
+I'm a beginner data engineer and Python developer. 
+I love creating useful pet projects: from graphic applications to data processing pipelines.
 
 ---
 
-## 🧰 Технологии, с которыми я работаю
+## 💻 About me
+
+- Learning to Work with Data: From SQL to Hadoop
+- I write scripts and applications in Python
+- Mastering PyQt5 to Create Desktop GUIs
+- I study **frontend**: HTML, CSS, JavaScrip - I have experience in website development
+- I understand analytics, ETL/ELT and data architectures
+
+---
+
+## 🧰 Technologies I work with
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PyQt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/PyQt_logo.png" />
@@ -31,15 +30,16 @@
 
 ## 🧪 Pet-проекты
 
-| 💡 Название | 📄 Описание | 🛠️ Технологии |
+| 💡 Name | 📄 Description | 🛠️ Technologies |
 |------------|-------------|----------------|
-| [ToDo на PyQt + CSV](https://github.com/Milia-K/todo-pyqt-csv) | GUI-приложение с сохранением задач в CSV | Python, PyQt5, pandas |
-| [Movie Data Pipeline](https://github.com/Milia-K/movie_data_pipeline) | Обработка и хранение данных о фильмах в распределённой среде | Python, Hadoop, Spark, Docker |
 | [Books_project](https://github.com/Milia-K/Books_project) | Book dataset download and analysis project | Python, PostgreSQL |
+| [ToDo на PyQt + CSV](https://github.com/Milia-K/todo-pyqt-csv) | GUI application with saving tasks in CSV | Python, PyQt5, pandas |
+| [Movie Data Pipeline](https://github.com/Milia-K/movie_data_pipeline) | Processing and storing film data in a distributed environment | Python, Hadoop, Spark, Docker |
+
 
 ---
 
-## 📫 Как связаться
+## 📫 Сontacts
 
 - Email: milyamilya20@gmail.com
 - Telegram: [@mimilch](https://t.me/mimilch)
@@ -47,4 +47,4 @@
 
 ---
 
-🔍 В поиске возможностей для роста и практики — открыта к предложениям! 😊
+🔍 Looking for opportunities for growth and practice - open to suggestions!
