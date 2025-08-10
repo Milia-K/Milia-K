@@ -15,10 +15,10 @@ I love creating useful pet projects: from graphic applications to data processin
 
 ---
 
-## 🧰 Technologies I work with
+## 🧰 Technologies 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="PyQt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/PyQt_logo.png" />
+<img align="left" alt="PyQt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/800px-Python_and_Qt.svg.png" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -28,7 +28,7 @@ I love creating useful pet projects: from graphic applications to data processin
 
 ---
 
-## 🧪 Pet-проекты
+## 🧪 Pet-projects
 
 | 💡 Name | 📄 Description | 🛠️ Technologies |
 |------------|-------------|----------------|
